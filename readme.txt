@@ -1,1 +1,1 @@
-直接运行目录：Exam-12697-20161209-2\src\main\java\Exam201612092 下的Tax.java文件即可
+mvn exec:java -Dexec.mainClass="Exam_12697_20161209_2.Tax"
